@@ -59,6 +59,9 @@ header video {
   min-height: 400px;
 }
 
+.container-fluid {
+  background-color: gray;
+}
 
 .ptext{
   position: absolute;
